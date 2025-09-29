@@ -1,0 +1,439 @@
+Usia Responden,Semester Responden,Jumlah Hubungan Responden,Durasi Rata-rata Hubungan Responden,Jumlah Kencan Responden,Tingkat Kepuasan Responden dalam Hubungan,Tingkat Kekuatan Cinta Responden dalam Hubungan,Tingkat Keterbukaan Komunikasi Responden dalam Hubungan,Respon Teman & Keluarga terhadap Hubungan Responden,Pengaruh Media Sosial terhadap Hubungan Responden,Frekuensi Konflik dalam Hubungan Responden,Penyelesaian Responden & Pasangan terhadap Konflik,Pengaruh Hubungan terhadap Performa Akademik Responden,Perubahan IPK yang Dialami Responden,Pendapat Responden terhadap Hubungan Terakhir,Media atau Bagaimana Responden Bertemu dengan Pasangan,Jenis Kelamin,Fakultas Responden,Status Responden Saat Ini,Status Responden Sebelumnya
+20,4.0,3.0,12.0,16.0,4.0,5.0,4.0,5.0,5.0,3.0,4.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,1,1,Ya,1
+20,4.0,2.0,12.0,8.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+19,4.0,2.0,48.0,4.0,5.0,5.0,4.0,4.0,4.0,5.0,4.0,Tidak,,Netral,Melalui teman,1,1,Ya,1
+19,4.0,3.0,30.0,4.0,5.0,5.0,5.0,4.0,1.0,2.0,5.0,Ya,Turun,Sangat mendukung,Melalui teman,1,1,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,1.0,8.0,6.0,2.0,2.0,1.0,2.0,4.0,4.0,2.0,Ya,Turun,Sangat mengganggu,sma,0,1,Ya,1
+19,2.0,2.0,5.0,20.0,5.0,5.0,4.0,5.0,3.0,3.0,4.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+21,6.0,6.0,12.0,2.0,1.0,1.0,1.0,2.0,5.0,2.0,5.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+22,6.0,10.0,3.0,8.0,4.0,4.0,3.0,3.0,4.0,2.0,5.0,Tidak,,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,1,Ya,1
+20,2.0,,,,,,,,,,,,,,,1,2,,0
+19,4.0,1.0,12.0,1.0,3.0,5.0,5.0,4.0,3.0,1.0,4.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,1,1,Ya,1
+21,2.0,,,,,,,,,,,,,,,1,1,,0
+18,4.0,3.0,3.0,1.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,Ya,Turun,Cukup mengganggu,Di kampus/organisasi,0,3,Ya,1
+20,2.0,3.0,2.0,1.0,2.0,2.0,2.0,3.0,4.0,3.0,2.0,Ya,Turun,Netral,"Media sosial (Instagram, Twitter, dsb.)",0,3,Tidak,1
+19,2.0,2.0,24.0,12.0,3.0,5.0,5.0,5.0,5.0,1.0,5.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,0,3,Ya,1
+18,2.0,1.0,12.0,3.0,5.0,5.0,4.0,5.0,3.0,3.0,4.0,Tidak,,Sangat mendukung,Sekolah,0,4,Ya,1
+18,2.0,3.0,12.0,3.0,4.0,5.0,5.0,5.0,5.0,3.0,5.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,1,1,Ya,1
+18,2.0,5.0,7.0,1.0,3.0,3.0,2.0,2.0,4.0,2.0,3.0,Tidak,,Netral,Melalui teman,0,1,Tidak,1
+20,4.0,2.0,3.0,10.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,Ya,Turun,Cukup mendukung,Melalui teman,1,1,Ya,1
+18,2.0,3.0,24.0,1.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,Tidak,,Netral,Di kampus/organisasi,0,5,Tidak,1
+19,2.0,1.0,7.0,4.0,5.0,5.0,5.0,5.0,2.0,2.0,5.0,Tidak,,Netral,Di kampus/organisasi,0,3,Tidak,1
+19,2.0,2.0,6.0,10.0,4.0,5.0,4.0,3.0,2.0,4.0,5.0,Tidak,,Cukup mendukung,Badmin,0,4,Ya,1
+18,2.0,2.0,10.0,4.0,3.0,4.0,4.0,5.0,3.0,1.0,5.0,Tidak,,Cukup mendukung,Di kampus/organisasi,0,6,Tidak,1
+19,4.0,2.0,20.0,2.0,5.0,5.0,5.0,3.0,5.0,2.0,5.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+20,4.0,2.0,1000000.0,2.0,5.0,5.0,5.0,5.0,2.0,3.0,5.0,Tidak,,Cukup mendukung,Melalui teman,1,1,Ya,1
+19,4.0,1.0,2.0,2.0,5.0,5.0,5.0,5.0,2.0,2.0,4.0,Tidak,,Sangat mendukung,Di kampus/organisasi,1,1,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,1,,0
+20,4.0,1.0,9.0,4.0,5.0,5.0,5.0,4.0,5.0,3.0,5.0,Ya,Naik,Cukup mengganggu,Di kampus/organisasi,1,1,Ya,1
+19,4.0,1.0,6.0,5.0,5.0,4.0,5.0,5.0,5.0,2.0,4.0,Tidak,,Netral,Melalui teman,0,1,Ya,1
+19,4.0,3.0,12.0,15.0,5.0,5.0,5.0,5.0,4.0,2.0,5.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,1,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,0,1,,0
+20,6.0,1.0,3.0,2.0,3.0,4.0,2.0,1.0,1.0,1.0,3.0,Tidak,,Netral,Game online,0,1,Tidak,1
+19,4.0,2.0,12.0,1.0,4.0,5.0,4.0,5.0,2.0,3.0,3.0,Tidak,,Sangat mendukung,Di kampus/organisasi,1,7,Tidak,1
+19,4.0,3.0,2.0,4.0,1.0,1.0,1.0,3.0,4.0,5.0,1.0,Ya,Turun,Sangat mengganggu,Melalui teman,0,1,Tidak,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+20,4.0,3.0,8.0,4.0,5.0,5.0,5.0,5.0,2.0,1.0,5.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,0,1,,0
+19,2.0,1.0,30.0,1.0,3.0,5.0,3.0,5.0,3.0,5.0,5.0,Tidak,,Netral,Sekolah,1,3,Ya,1
+19,4.0,1.0,6.0,1.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,Tidak,,Netral,Di kampus/organisasi,0,6,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+21,6.0,1.0,0.0,4.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,3,Tidak,1
+20,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,4.0,10.0,2.0,5.0,5.0,5.0,4.0,2.0,2.0,4.0,Tidak,,Sangat mendukung,Melalui teman,1,1,Ya,1
+18,,,,,,,,,,,,,,,,1,2,,0
+19,4.0,1.0,12.0,2.0,2.0,3.0,5.0,3.0,1.0,1.0,4.0,Ya,Turun,Sangat mengganggu,Melalui teman,1,1,Tidak,1
+19,4.0,1.0,8.0,1.0,5.0,5.0,5.0,5.0,4.0,2.0,4.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,1,Ya,1
+19,4.0,3.0,12.0,3.0,3.0,3.0,5.0,5.0,3.0,3.0,5.0,Tidak,,Netral,Di kampus/organisasi,1,1,Ya,1
+19,4.0,1.0,16.0,8.0,5.0,5.0,5.0,5.0,1.0,1.0,5.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+19,4.0,3.0,9.0,4.0,3.0,3.0,3.0,4.0,4.0,2.0,4.0,Tidak,,Cukup mendukung,Melalui teman,0,1,Ya,1
+19,4.0,8.0,3.0,3.0,3.0,2.0,4.0,2.0,5.0,5.0,4.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,1,1,Ya,1
+20,4.0,1.0,34.0,2.0,5.0,5.0,5.0,5.0,3.0,2.0,5.0,Ya,Naik,Netral,SMA,0,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,6,,0
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+18,2.0,2.0,4.0,2.0,3.0,3.0,2.0,1.0,2.0,1.0,1.0,Tidak,,Cukup mengganggu,Melalui teman,0,5,Tidak,1
+19,4.0,3.0,30.0,2.0,4.0,4.0,5.0,3.0,2.0,2.0,4.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,1,Ya,1
+19,4.0,1.0,8.0,4.0,3.0,4.0,4.0,4.0,2.0,4.0,4.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,1,1,Tidak,1
+20,6.0,2.0,15.0,5.0,5.0,5.0,5.0,4.0,2.0,2.0,4.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,0,1,Ya,1
+20,4.0,,,,,,,,,,,,,,,0,1,,0
+19,4.0,1.0,32.0,1.0,5.0,5.0,5.0,3.0,1.0,2.0,5.0,Ya,Turun,Cukup mendukung,sekolah SMA,0,1,Ya,1
+19,4.0,2.0,18.0,2.0,3.0,4.0,5.0,4.0,4.0,2.0,4.0,Tidak,,Cukup mendukung,Melalui teman,1,1,Tidak,1
+19,4.0,2.0,23.0,1.0,4.0,4.0,3.0,4.0,5.0,4.0,4.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,1,6,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,1.0,12.0,3.0,2.0,3.0,4.0,4.0,3.0,2.0,5.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,1,4,Ya,1
+20,4.0,2.0,2.0,5.0,4.0,5.0,5.0,5.0,2.0,1.0,5.0,Tidak,,Sangat mendukung,Melalui teman,1,1,Ya,1
+19,4.0,2.0,3.0,3.0,5.0,5.0,5.0,3.0,3.0,2.0,5.0,Ya,Turun,Cukup mendukung,Di kampus/organisasi,0,1,Ya,1
+19,4.0,1.0,6.0,5.0,5.0,5.0,3.0,5.0,1.0,3.0,4.0,Tidak,,Cukup mendukung,Melalui teman,1,1,Tidak,1
+20,4.0,2.0,24.0,2.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,Ya,Naik,Cukup mendukung,Melalui teman,1,1,Tidak,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,2.0,11.0,4.0,3.0,4.0,4.0,1.0,2.0,2.0,4.0,Tidak,,Cukup mengganggu,Gereja,1,1,Tidak,1
+18,4.0,5.0,9.0,3.0,4.0,4.0,3.0,5.0,4.0,4.0,5.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,0,7,Tidak,1
+20,4.0,3.0,4.0,0.0,5.0,5.0,5.0,1.0,1.0,1.0,5.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,1,Tidak,1
+18,2.0,1.0,6.0,4.0,5.0,5.0,4.0,3.0,3.0,2.0,4.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,0,8,,0
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+19,2.0,1.0,1.0,2.0,2.0,4.0,3.0,5.0,1.0,5.0,1.0,Tidak,,Cukup mengganggu,Di SMA,0,1,Tidak,1
+18,2.0,1.0,3.0,2.0,5.0,4.0,5.0,3.0,4.0,3.0,5.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,0,3,Ya,1
+20,4.0,4.0,30.0,6.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,Ya,Naik,Cukup mendukung,Melalui teman,1,6,Tidak,1
+18,2.0,5.0,10.0,1.0,3.0,4.0,5.0,2.0,1.0,4.0,5.0,Tidak,,Netral,Melalui teman,0,1,Tidak,1
+19,2.0,1.0,74.0,2.0,3.0,4.0,5.0,5.0,1.0,2.0,5.0,Ya,Naik,Netral,Di kampus/organisasi,1,1,Tidak,1
+19,2.0,5.0,3.0,8.0,3.0,2.0,2.0,1.0,1.0,1.0,5.0,Ya,Turun,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+19,4.0,,,,,,,,,,,,,,,0,4,,0
+18,2.0,1.0,3.0,8.0,5.0,5.0,5.0,3.0,1.0,1.0,3.0,Tidak,,Cukup mendukung,Melalui teman,1,1,Ya,1
+20,4.0,1.0,13.0,2.0,2.0,2.0,4.0,4.0,1.0,2.0,2.0,Tidak,,Cukup mendukung,Di kampus/organisasi,0,1,Tidak,1
+19,4.0,2.0,4.0,3.0,3.0,3.0,4.0,2.0,3.0,1.0,2.0,Tidak,,Netral,Di kampus/organisasi,0,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+21,4.0,4.0,6.0,2.0,4.0,3.0,2.0,3.0,3.0,4.0,1.0,Tidak,,Netral,Di kampus/organisasi,1,1,Tidak,1
+20,4.0,1.0,6.0,4.0,4.0,4.0,5.0,3.0,2.0,4.0,4.0,Tidak,,Netral,Melalui teman,1,7,Tidak,1
+20,4.0,1.0,15.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,5.0,Tidak,,Cukup mendukung,Melalui teman,1,1,Ya,1
+19,4.0,3.0,5.0,1.0,4.0,5.0,4.0,1.0,5.0,5.0,3.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,0,3,Ya,1
+20,4.0,1.0,3.0,0.0,4.0,2.0,4.0,2.0,5.0,3.0,4.0,Tidak,,Cukup mendukung,Melalui teman,1,1,Tidak,1
+20,4.0,5.0,9.0,6.0,1.0,1.0,1.0,3.0,5.0,4.0,1.0,Ya,Turun,Netral,Melalui teman,0,4,Tidak,1
+20,4.0,3.0,8.0,0.0,3.0,3.0,5.0,1.0,4.0,4.0,4.0,Ya,Turun,Netral,Di kampus/organisasi,0,1,Ya,1
+19,4.0,1.0,12.0,8.0,1.0,3.0,1.0,3.0,1.0,4.0,3.0,Ya,Turun,Sangat mengganggu,Di kampus/organisasi,0,1,Tidak,1
+20,4.0,2.0,10.0,2.0,4.0,3.0,2.0,1.0,3.0,2.0,1.0,Tidak,,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,7,Tidak,1
+20,4.0,6.0,7.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,5.0,Ya,Naik,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+19,4.0,1.0,24.0,1.0,2.0,4.0,2.0,5.0,1.0,3.0,4.0,Tidak,,Cukup mendukung,sekolah,0,7,Tidak,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,3.0,6.0,2.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,1,Tidak,1
+19,4.0,1.0,10.0,1.0,3.0,5.0,4.0,4.0,5.0,2.0,3.0,Tidak,,Cukup mengganggu,teman sekolah,1,1,Tidak,1
+19,4.0,5.0,5.0,0.0,4.0,3.0,5.0,5.0,3.0,4.0,3.0,Ya,Turun,Sangat mendukung,Melalui teman,0,3,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,1,,0
+21,4.0,1.0,16.0,4.0,3.0,4.0,4.0,2.0,4.0,4.0,5.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,8,Ya,1
+20,6.0,5.0,15.0,1.0,4.0,4.0,4.0,3.0,5.0,3.0,3.0,Ya,Naik,Sangat mengganggu,Melalui teman,1,1,Ya,1
+18,2.0,3.0,25.0,3.0,5.0,3.0,4.0,5.0,4.0,3.0,5.0,Ya,Turun,Sangat mengganggu,Di kampus/organisasi,1,1,Tidak,1
+21,4.0,4.0,19.0,3.0,4.0,2.0,5.0,5.0,5.0,4.0,5.0,Ya,Naik,Cukup mengganggu,Melalui teman,0,7,Tidak,1
+19,4.0,3.0,8.0,2.0,3.0,5.0,3.0,2.0,2.0,5.0,3.0,Tidak,,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,2,Ya,1
+19,4.0,1.0,28.0,2.0,3.0,2.0,4.0,5.0,4.0,3.0,2.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,1,4,Tidak,1
+20,4.0,,,,,,,,,,,,,,,0,1,,0
+21,4.0,4.0,31.0,2.0,5.0,2.0,3.0,4.0,4.0,4.0,4.0,Tidak,,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,7,Ya,1
+23,6.0,4.0,23.0,4.0,4.0,3.0,2.0,3.0,2.0,4.0,2.0,Tidak,,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+20,6.0,2.0,22.0,1.0,4.0,5.0,4.0,3.0,4.0,3.0,2.0,Tidak,,Netral,Melalui teman,0,1,Tidak,1
+19,4.0,3.0,25.0,1.0,2.0,4.0,2.0,3.0,2.0,5.0,3.0,Ya,Turun,Cukup mendukung,Melalui teman,0,1,Ya,1
+21,6.0,5.0,3.0,4.0,4.0,5.0,2.0,5.0,5.0,3.0,2.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+20,4.0,,,,,,,,,,,,,,,1,1,,0
+20,4.0,2.0,6.0,4.0,2.0,5.0,2.0,2.0,3.0,3.0,5.0,Ya,Naik,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+19,2.0,1.0,22.0,1.0,2.0,3.0,4.0,3.0,3.0,2.0,5.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,8,Tidak,1
+19,2.0,,,,,,,,,,,,,,,1,6,,0
+23,6.0,3.0,34.0,2.0,5.0,2.0,3.0,4.0,5.0,4.0,5.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",0,4,Tidak,1
+19,4.0,4.0,30.0,1.0,3.0,4.0,2.0,5.0,4.0,2.0,3.0,Tidak,,Cukup mendukung,Melalui teman,1,8,Tidak,1
+19,2.0,1.0,28.0,1.0,5.0,3.0,3.0,5.0,2.0,5.0,4.0,Ya,Turun,Cukup mendukung,Di kampus/organisasi,0,1,Ya,1
+19,4.0,5.0,29.0,1.0,4.0,4.0,5.0,3.0,5.0,3.0,2.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Tidak,1
+20,4.0,3.0,16.0,2.0,3.0,5.0,2.0,2.0,2.0,3.0,4.0,Tidak,,Sangat mendukung,Melalui teman,0,2,Tidak,1
+21,4.0,3.0,24.0,2.0,4.0,3.0,4.0,4.0,5.0,2.0,4.0,Tidak,,Cukup mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,2,,0
+19,2.0,2.0,17.0,3.0,4.0,4.0,2.0,5.0,3.0,3.0,4.0,Tidak,,Sangat mendukung,Melalui teman,0,1,Ya,1
+21,6.0,1.0,7.0,0.0,2.0,4.0,2.0,3.0,2.0,3.0,3.0,Tidak,,Cukup mengganggu,Melalui teman,0,1,Ya,1
+22,6.0,,,,,,,,,,,,,,,0,5,,0
+18,2.0,,,,,,,,,,,,,,,0,1,,0
+21,4.0,1.0,3.0,4.0,4.0,5.0,3.0,5.0,3.0,4.0,2.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,7,Ya,1
+23,6.0,3.0,8.0,3.0,2.0,5.0,4.0,2.0,5.0,4.0,5.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+19,2.0,4.0,8.0,1.0,3.0,3.0,4.0,2.0,4.0,5.0,4.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,1,Tidak,1
+19,4.0,,,,,,,,,,,,,,,0,2,,0
+20,4.0,5.0,11.0,4.0,5.0,4.0,4.0,3.0,3.0,3.0,3.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,5,Ya,1
+21,4.0,,,,,,,,,,,,,,,1,7,,0
+23,6.0,3.0,25.0,2.0,2.0,2.0,3.0,3.0,2.0,5.0,3.0,Ya,Naik,Netral,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+19,4.0,3.0,11.0,1.0,4.0,4.0,5.0,4.0,5.0,2.0,5.0,Tidak,,Cukup mendukung,Di kampus/organisasi,0,3,Tidak,1
+18,2.0,,,,,,,,,,,,,,,1,2,,0
+19,4.0,,,,,,,,,,,,,,,0,4,,0
+19,2.0,,,,,,,,,,,,,,,1,7,,0
+20,6.0,1.0,6.0,4.0,3.0,3.0,3.0,4.0,2.0,5.0,4.0,Ya,Naik,Netral,Di kampus/organisasi,0,1,Tidak,1
+20,6.0,4.0,14.0,4.0,2.0,4.0,2.0,2.0,2.0,5.0,3.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",1,8,Ya,1
+19,4.0,4.0,8.0,2.0,5.0,5.0,3.0,5.0,2.0,2.0,4.0,Ya,Naik,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+19,4.0,5.0,13.0,1.0,3.0,3.0,5.0,4.0,2.0,2.0,5.0,Ya,Naik,Netral,Melalui teman,1,1,Ya,1
+20,4.0,3.0,26.0,1.0,2.0,4.0,4.0,5.0,5.0,2.0,4.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+23,6.0,4.0,30.0,3.0,2.0,3.0,2.0,3.0,2.0,4.0,3.0,Tidak,,Cukup mendukung,Melalui teman,0,7,Ya,1
+18,2.0,2.0,35.0,2.0,3.0,4.0,3.0,3.0,3.0,4.0,5.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,0,1,Tidak,1
+21,4.0,1.0,33.0,2.0,3.0,3.0,3.0,3.0,4.0,4.0,3.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+20,6.0,4.0,19.0,1.0,4.0,4.0,5.0,3.0,3.0,3.0,5.0,Ya,Turun,Sangat mengganggu,Melalui teman,0,8,Tidak,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+20,4.0,,,,,,,,,,,,,,,1,4,,0
+21,4.0,1.0,4.0,4.0,5.0,4.0,2.0,3.0,3.0,3.0,5.0,Tidak,,Sangat mengganggu,Melalui teman,1,3,Ya,1
+19,4.0,3.0,11.0,3.0,3.0,2.0,4.0,5.0,2.0,5.0,2.0,Ya,Naik,Sangat mengganggu,Di kampus/organisasi,0,4,Ya,1
+20,6.0,4.0,13.0,1.0,2.0,2.0,5.0,2.0,4.0,2.0,3.0,Ya,Naik,Sangat mengganggu,Melalui teman,1,6,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,8,,0
+19,2.0,,,,,,,,,,,,,,,0,6,,0
+19,4.0,5.0,7.0,3.0,2.0,5.0,4.0,5.0,2.0,5.0,3.0,Ya,Naik,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+21,4.0,,,,,,,,,,,,,,,1,3,,0
+19,4.0,1.0,18.0,1.0,2.0,5.0,5.0,2.0,2.0,3.0,3.0,Tidak,,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+20,4.0,2.0,18.0,4.0,5.0,5.0,2.0,4.0,4.0,2.0,3.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,0,3,Tidak,1
+21,4.0,1.0,24.0,2.0,4.0,3.0,5.0,5.0,5.0,4.0,4.0,Tidak,,Sangat mendukung,Melalui teman,1,6,Tidak,1
+21,4.0,3.0,11.0,1.0,4.0,4.0,2.0,3.0,3.0,3.0,2.0,Tidak,,Sangat mendukung,Di kampus/organisasi,1,6,Tidak,1
+20,4.0,2.0,13.0,2.0,4.0,3.0,5.0,3.0,4.0,2.0,5.0,Ya,Turun,Cukup mendukung,Di kampus/organisasi,1,6,Ya,1
+21,4.0,5.0,17.0,1.0,2.0,4.0,2.0,2.0,3.0,2.0,2.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,1,8,Tidak,1
+22,6.0,4.0,19.0,2.0,4.0,5.0,3.0,2.0,2.0,3.0,3.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,8,Tidak,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+21,4.0,,,,,,,,,,,,,,,0,3,,0
+22,6.0,,,,,,,,,,,,,,,1,2,,0
+21,4.0,1.0,23.0,3.0,3.0,3.0,3.0,4.0,5.0,5.0,5.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,1,Tidak,1
+21,4.0,,,,,,,,,,,,,,,0,1,,0
+21,4.0,2.0,32.0,3.0,4.0,4.0,2.0,2.0,2.0,2.0,5.0,Tidak,,Netral,Di kampus/organisasi,0,1,Ya,1
+23,6.0,4.0,15.0,3.0,3.0,2.0,4.0,4.0,2.0,4.0,4.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,8,Ya,1
+19,4.0,2.0,27.0,3.0,4.0,3.0,4.0,2.0,3.0,3.0,3.0,Ya,Naik,Cukup mendukung,Melalui teman,1,1,Ya,1
+22,6.0,1.0,10.0,2.0,5.0,2.0,5.0,5.0,5.0,2.0,3.0,Ya,Turun,Sangat mendukung,Melalui teman,1,8,Ya,1
+21,4.0,5.0,13.0,1.0,4.0,3.0,2.0,4.0,2.0,3.0,5.0,Tidak,,Netral,Melalui teman,1,1,Ya,1
+19,2.0,4.0,36.0,2.0,3.0,3.0,4.0,2.0,3.0,4.0,3.0,Ya,Naik,Sangat mengganggu,Di kampus/organisasi,1,1,Ya,1
+18,2.0,1.0,10.0,3.0,3.0,4.0,3.0,5.0,5.0,5.0,5.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+20,4.0,1.0,10.0,3.0,4.0,2.0,2.0,2.0,5.0,3.0,2.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,6,Tidak,1
+19,2.0,2.0,23.0,4.0,4.0,5.0,2.0,4.0,5.0,5.0,5.0,Tidak,,Sangat mendukung,Melalui teman,0,1,Tidak,1
+19,4.0,5.0,23.0,3.0,2.0,3.0,3.0,5.0,3.0,5.0,3.0,Tidak,,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,4,Tidak,1
+20,6.0,,,,,,,,,,,,,,,0,7,,0
+18,2.0,1.0,9.0,1.0,5.0,5.0,4.0,3.0,3.0,3.0,3.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,7,Tidak,1
+18,2.0,,,,,,,,,,,,,,,0,1,,0
+19,4.0,,,,,,,,,,,,,,,0,4,,0
+21,6.0,5.0,6.0,0.0,5.0,5.0,3.0,3.0,5.0,5.0,3.0,Ya,Turun,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,8,Ya,1
+21,4.0,4.0,11.0,2.0,3.0,5.0,4.0,3.0,3.0,4.0,3.0,Ya,Turun,Cukup mengganggu,Melalui teman,1,3,Tidak,1
+20,6.0,3.0,21.0,2.0,2.0,2.0,4.0,4.0,4.0,2.0,5.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,3,Tidak,1
+20,4.0,,,,,,,,,,,,,,,1,5,,0
+19,4.0,3.0,18.0,2.0,4.0,4.0,3.0,3.0,5.0,2.0,4.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,4,Tidak,1
+19,2.0,3.0,35.0,2.0,2.0,2.0,3.0,5.0,2.0,3.0,5.0,Tidak,,Sangat mendukung,Melalui teman,1,8,Ya,1
+21,4.0,3.0,33.0,2.0,5.0,2.0,3.0,2.0,5.0,3.0,3.0,Ya,Naik,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+19,2.0,5.0,18.0,2.0,4.0,4.0,5.0,5.0,5.0,3.0,3.0,Ya,Turun,Cukup mengganggu,Melalui teman,0,1,Tidak,1
+20,4.0,2.0,12.0,2.0,2.0,3.0,2.0,4.0,2.0,5.0,5.0,Tidak,,Sangat mendukung,Melalui teman,1,1,Ya,1
+19,4.0,3.0,30.0,1.0,5.0,2.0,2.0,4.0,2.0,3.0,5.0,Ya,Turun,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,5,Ya,1
+21,4.0,3.0,8.0,1.0,2.0,2.0,2.0,3.0,4.0,5.0,5.0,Ya,Naik,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+19,4.0,2.0,7.0,1.0,3.0,2.0,2.0,4.0,2.0,2.0,2.0,Ya,Naik,Cukup mengganggu,Melalui teman,0,8,Ya,1
+19,4.0,,,,,,,,,,,,,,,0,4,,0
+21,4.0,,,,,,,,,,,,,,,1,5,,0
+23,6.0,5.0,6.0,4.0,4.0,4.0,4.0,3.0,5.0,3.0,4.0,Tidak,,Netral,"Media sosial (Instagram, Twitter, dsb.)",1,7,Ya,1
+20,6.0,2.0,20.0,2.0,2.0,3.0,5.0,4.0,2.0,2.0,4.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,7,Tidak,1
+18,2.0,4.0,7.0,1.0,2.0,4.0,2.0,4.0,4.0,3.0,4.0,Tidak,,Cukup mendukung,Melalui teman,0,1,Tidak,1
+21,4.0,,,,,,,,,,,,,,,1,1,,0
+20,4.0,5.0,32.0,4.0,4.0,4.0,4.0,2.0,5.0,4.0,5.0,Tidak,,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+18,2.0,,,,,,,,,,,,,,,1,3,,0
+20,4.0,4.0,5.0,1.0,3.0,3.0,2.0,3.0,3.0,5.0,4.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,2,Tidak,1
+20,4.0,,,,,,,,,,,,,,,0,7,,0
+21,4.0,,,,,,,,,,,,,,,1,1,,0
+20,4.0,5.0,26.0,4.0,2.0,4.0,2.0,2.0,5.0,4.0,3.0,Tidak,,Netral,"Media sosial (Instagram, Twitter, dsb.)",0,2,Ya,1
+20,4.0,3.0,25.0,4.0,3.0,3.0,5.0,5.0,4.0,4.0,3.0,Tidak,,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,3,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,2,,0
+18,2.0,4.0,29.0,3.0,5.0,5.0,2.0,5.0,5.0,3.0,2.0,Ya,Naik,Sangat mendukung,Melalui teman,1,2,Tidak,1
+21,6.0,2.0,15.0,3.0,5.0,5.0,4.0,3.0,3.0,4.0,3.0,Tidak,,Sangat mendukung,Melalui teman,1,1,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,8,,0
+21,4.0,5.0,17.0,3.0,2.0,4.0,4.0,2.0,5.0,4.0,4.0,Ya,Naik,Netral,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+20,6.0,,,,,,,,,,,,,,,1,5,,0
+19,4.0,3.0,15.0,1.0,2.0,2.0,4.0,2.0,4.0,3.0,5.0,Tidak,,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+19,4.0,,,,,,,,,,,,,,,1,2,,0
+21,4.0,2.0,15.0,2.0,5.0,5.0,3.0,4.0,4.0,3.0,2.0,Ya,Naik,Sangat mengganggu,Di kampus/organisasi,0,1,Ya,1
+21,4.0,,,,,,,,,,,,,,,0,3,,0
+23,6.0,1.0,8.0,2.0,3.0,5.0,2.0,3.0,5.0,5.0,3.0,Ya,Turun,Sangat mendukung,Di kampus/organisasi,1,1,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,1,,0
+20,6.0,,,,,,,,,,,,,,,1,8,,0
+19,4.0,,,,,,,,,,,,,,,0,7,,0
+20,4.0,,,,,,,,,,,,,,,1,1,,0
+20,4.0,,,,,,,,,,,,,,,1,8,,0
+21,4.0,,,,,,,,,,,,,,,0,2,,0
+19,2.0,5.0,33.0,1.0,2.0,3.0,3.0,3.0,5.0,2.0,3.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+21,6.0,4.0,4.0,1.0,4.0,3.0,4.0,5.0,2.0,2.0,5.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,3,Ya,1
+20,4.0,,,,,,,,,,,,,,,1,7,,0
+20,6.0,4.0,17.0,3.0,3.0,4.0,2.0,5.0,5.0,5.0,3.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+19,4.0,2.0,14.0,1.0,4.0,5.0,3.0,5.0,5.0,4.0,2.0,Tidak,,Netral,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+18,2.0,4.0,29.0,2.0,2.0,3.0,4.0,4.0,4.0,4.0,4.0,Ya,Turun,Netral,Di kampus/organisasi,1,1,Tidak,1
+19,4.0,4.0,36.0,1.0,3.0,3.0,3.0,3.0,4.0,5.0,3.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,2,Ya,1
+21,4.0,5.0,13.0,1.0,4.0,3.0,4.0,5.0,5.0,3.0,4.0,Ya,Turun,Netral,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+20,4.0,5.0,30.0,4.0,4.0,3.0,3.0,4.0,2.0,3.0,5.0,Tidak,,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,5,Tidak,1
+19,4.0,2.0,34.0,2.0,2.0,4.0,3.0,5.0,2.0,4.0,3.0,Ya,Turun,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+19,4.0,1.0,19.0,3.0,4.0,3.0,3.0,2.0,5.0,2.0,2.0,Ya,Turun,Cukup mengganggu,Di kampus/organisasi,1,6,Ya,1
+18,2.0,1.0,21.0,1.0,4.0,3.0,5.0,3.0,4.0,5.0,3.0,Tidak,,Netral,Di kampus/organisasi,0,8,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,2,,0
+21,4.0,5.0,20.0,4.0,4.0,2.0,4.0,3.0,2.0,3.0,5.0,Tidak,,Sangat mendukung,Melalui teman,1,2,Ya,1
+19,4.0,5.0,15.0,4.0,3.0,4.0,3.0,2.0,5.0,2.0,4.0,Ya,Naik,Netral,Di kampus/organisasi,1,1,Ya,1
+20,4.0,3.0,34.0,2.0,5.0,3.0,4.0,3.0,2.0,4.0,4.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+21,4.0,3.0,16.0,3.0,5.0,4.0,2.0,2.0,4.0,3.0,5.0,Tidak,,Netral,Melalui teman,1,6,Tidak,1
+21,4.0,2.0,18.0,3.0,2.0,2.0,3.0,2.0,2.0,5.0,2.0,Ya,Naik,Cukup mengganggu,Melalui teman,1,1,Tidak,1
+20,4.0,1.0,14.0,1.0,5.0,2.0,2.0,3.0,3.0,5.0,5.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+20,6.0,4.0,24.0,3.0,2.0,2.0,5.0,3.0,4.0,2.0,5.0,Tidak,,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+21,4.0,3.0,15.0,2.0,2.0,3.0,4.0,2.0,2.0,4.0,2.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",0,7,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+19,2.0,3.0,26.0,2.0,5.0,5.0,2.0,2.0,5.0,5.0,2.0,Ya,Turun,Cukup mengganggu,Melalui teman,0,1,Ya,1
+20,4.0,,,,,,,,,,,,,,,0,1,,0
+19,2.0,,,,,,,,,,,,,,,0,1,,0
+21,4.0,5.0,27.0,3.0,4.0,3.0,4.0,5.0,5.0,3.0,2.0,Tidak,,Netral,"Media sosial (Instagram, Twitter, dsb.)",0,7,Ya,1
+19,4.0,3.0,22.0,1.0,5.0,5.0,3.0,5.0,4.0,4.0,5.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+21,6.0,,,,,,,,,,,,,,,0,8,,0
+18,2.0,,,,,,,,,,,,,,,1,1,,0
+18,2.0,2.0,17.0,3.0,5.0,5.0,5.0,2.0,2.0,5.0,5.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+20,4.0,,,,,,,,,,,,,,,1,7,,0
+19,4.0,3.0,32.0,2.0,3.0,4.0,5.0,4.0,5.0,5.0,3.0,Tidak,,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,3,Tidak,1
+23,6.0,3.0,30.0,4.0,4.0,3.0,4.0,3.0,2.0,2.0,5.0,Ya,Turun,Cukup mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+23,6.0,4.0,27.0,1.0,5.0,2.0,5.0,5.0,3.0,5.0,2.0,Tidak,,Sangat mendukung,Di kampus/organisasi,1,6,Tidak,1
+21,6.0,1.0,25.0,1.0,2.0,3.0,5.0,5.0,2.0,3.0,4.0,Ya,Turun,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Tidak,1
+19,2.0,,,,,,,,,,,,,,,0,7,,0
+21,4.0,1.0,6.0,4.0,4.0,3.0,3.0,2.0,5.0,3.0,5.0,Tidak,,Netral,Di kampus/organisasi,0,3,Tidak,1
+18,2.0,5.0,12.0,1.0,3.0,3.0,2.0,3.0,4.0,3.0,3.0,Ya,Naik,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Tidak,1
+20,4.0,2.0,23.0,1.0,3.0,2.0,2.0,4.0,4.0,5.0,2.0,Tidak,,Sangat mengganggu,Melalui teman,0,1,Tidak,1
+20,4.0,2.0,19.0,3.0,3.0,3.0,3.0,2.0,5.0,4.0,2.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,1,8,Tidak,1
+19,4.0,,,,,,,,,,,,,,,1,3,,0
+20,6.0,,,,,,,,,,,,,,,1,6,,0
+19,4.0,,,,,,,,,,,,,,,1,8,,0
+21,4.0,1.0,22.0,2.0,4.0,2.0,4.0,4.0,5.0,4.0,2.0,Ya,Turun,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,1,Ya,1
+19,4.0,5.0,29.0,4.0,3.0,3.0,2.0,2.0,4.0,4.0,2.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,0,2,Ya,1
+21,4.0,5.0,12.0,4.0,4.0,5.0,3.0,2.0,4.0,2.0,3.0,Tidak,,Sangat mengganggu,Melalui teman,0,1,Tidak,1
+20,4.0,2.0,21.0,2.0,3.0,4.0,2.0,2.0,3.0,2.0,2.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,8,Ya,1
+21,4.0,4.0,33.0,1.0,2.0,2.0,3.0,5.0,2.0,3.0,2.0,Ya,Naik,Cukup mengganggu,Melalui teman,1,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,1,,0
+19,4.0,4.0,11.0,1.0,2.0,4.0,5.0,4.0,4.0,2.0,2.0,Tidak,,Cukup mendukung,Melalui teman,0,3,Tidak,1
+19,4.0,4.0,33.0,1.0,2.0,4.0,2.0,5.0,3.0,2.0,4.0,Ya,Turun,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",1,8,Tidak,1
+19,2.0,1.0,22.0,1.0,4.0,2.0,5.0,2.0,2.0,3.0,4.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,0,1,Ya,1
+20,4.0,3.0,35.0,4.0,3.0,4.0,5.0,5.0,2.0,3.0,4.0,Tidak,,Cukup mengganggu,Melalui teman,1,4,Tidak,1
+21,4.0,2.0,33.0,1.0,5.0,3.0,3.0,4.0,2.0,4.0,3.0,Tidak,,Cukup mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,8,Tidak,1
+21,4.0,4.0,15.0,4.0,4.0,4.0,2.0,3.0,5.0,5.0,4.0,Ya,Turun,Cukup mengganggu,Di kampus/organisasi,0,1,Ya,1
+19,4.0,4.0,11.0,4.0,3.0,2.0,3.0,4.0,4.0,4.0,5.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,2,Tidak,1
+22,6.0,4.0,36.0,3.0,3.0,2.0,2.0,3.0,2.0,3.0,3.0,Tidak,,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Tidak,1
+20,4.0,1.0,28.0,3.0,5.0,5.0,5.0,2.0,5.0,5.0,2.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,2,Tidak,1
+20,4.0,1.0,10.0,2.0,3.0,4.0,4.0,3.0,5.0,5.0,2.0,Tidak,,Cukup mendukung,Di kampus/organisasi,0,1,Ya,1
+18,2.0,,,,,,,,,,,,,,,1,7,,0
+21,4.0,4.0,17.0,3.0,2.0,2.0,2.0,2.0,5.0,4.0,5.0,Tidak,,Sangat mendukung,Di kampus/organisasi,1,1,Ya,1
+21,4.0,4.0,15.0,3.0,3.0,4.0,3.0,4.0,2.0,2.0,3.0,Ya,Turun,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+21,4.0,2.0,33.0,2.0,3.0,3.0,4.0,3.0,2.0,4.0,4.0,Tidak,,Sangat mengganggu,Melalui teman,0,8,Ya,1
+19,4.0,1.0,31.0,4.0,5.0,4.0,3.0,2.0,5.0,2.0,5.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,0,7,Ya,1
+22,6.0,2.0,26.0,2.0,5.0,2.0,3.0,5.0,3.0,5.0,5.0,Tidak,,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,7,Ya,1
+22,6.0,2.0,18.0,3.0,4.0,4.0,4.0,3.0,2.0,4.0,5.0,Ya,Naik,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+21,6.0,2.0,10.0,2.0,5.0,2.0,3.0,2.0,4.0,4.0,4.0,Ya,Turun,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+18,2.0,1.0,11.0,3.0,4.0,3.0,2.0,5.0,5.0,5.0,2.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+20,6.0,3.0,16.0,1.0,3.0,2.0,3.0,5.0,3.0,2.0,5.0,Ya,Naik,Netral,"Media sosial (Instagram, Twitter, dsb.)",0,1,Ya,1
+20,6.0,3.0,28.0,3.0,5.0,3.0,3.0,4.0,2.0,4.0,2.0,Ya,Turun,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,8,,0
+23,6.0,3.0,34.0,4.0,2.0,5.0,2.0,2.0,4.0,5.0,4.0,Tidak,,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+21,4.0,4.0,19.0,1.0,4.0,4.0,2.0,5.0,4.0,4.0,3.0,Ya,Naik,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+19,2.0,5.0,19.0,3.0,4.0,5.0,2.0,3.0,3.0,4.0,3.0,Ya,Naik,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,1,Ya,1
+21,4.0,3.0,26.0,3.0,2.0,4.0,3.0,4.0,4.0,3.0,5.0,Ya,Naik,Sangat mendukung,Melalui teman,1,1,Ya,1
+21,4.0,5.0,7.0,3.0,4.0,5.0,5.0,5.0,3.0,3.0,2.0,Ya,Naik,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+19,2.0,,,,,,,,,,,,,,,1,7,,0
+18,2.0,2.0,25.0,4.0,5.0,2.0,3.0,3.0,5.0,5.0,3.0,Tidak,,Netral,Melalui teman,0,6,Ya,1
+19,4.0,4.0,4.0,1.0,3.0,2.0,5.0,5.0,5.0,5.0,3.0,Tidak,,Cukup mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+20,4.0,2.0,21.0,2.0,4.0,3.0,2.0,4.0,5.0,3.0,5.0,Ya,Naik,Sangat mengganggu,Di kampus/organisasi,1,8,Ya,1
+19,2.0,1.0,23.0,3.0,4.0,2.0,2.0,4.0,5.0,5.0,3.0,Tidak,,Cukup mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,8,Tidak,1
+19,2.0,4.0,5.0,3.0,4.0,4.0,5.0,5.0,4.0,2.0,4.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,0,8,Ya,1
+19,4.0,5.0,4.0,2.0,5.0,2.0,3.0,2.0,2.0,4.0,3.0,Ya,Turun,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+19,4.0,3.0,29.0,3.0,2.0,3.0,3.0,4.0,2.0,2.0,2.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,8,Tidak,1
+20,4.0,2.0,4.0,3.0,2.0,4.0,3.0,4.0,2.0,2.0,4.0,Ya,Turun,Netral,Di kampus/organisasi,1,1,Tidak,1
+18,4.0,5.0,3.0,10.0,3.0,4.0,3.0,4.0,4.0,3.0,4.0,Ya,Turun,Cukup mengganggu,Di kampus/organisasi,1,3,Ya,1
+23,6.0,3.0,8.0,3.0,3.0,2.0,4.0,4.0,4.0,5.0,5.0,Ya,Naik,Cukup mendukung,Di kampus/organisasi,1,2,Tidak,1
+19,4.0,,,,,,,,,,,,,,,1,8,,0
+21,6.0,,,,,,,,,,,,,,,0,1,,0
+19,2.0,3.0,21.0,2.0,3.0,3.0,2.0,3.0,2.0,2.0,2.0,Ya,Naik,Cukup mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+19,4.0,5.0,12.0,2.0,4.0,5.0,3.0,5.0,3.0,2.0,3.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,1,1,Ya,1
+19,4.0,,,,,,,,,,,,,,,1,8,,0
+18,2.0,,,,,,,,,,,,,,,0,5,,0
+21,4.0,2.0,23.0,3.0,2.0,5.0,5.0,2.0,3.0,3.0,5.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,3,Ya,1
+23,6.0,4.0,34.0,2.0,5.0,4.0,2.0,2.0,5.0,4.0,4.0,Ya,Naik,Sangat mengganggu,Melalui teman,1,3,Ya,1
+19,2.0,5.0,35.0,3.0,2.0,2.0,5.0,4.0,5.0,2.0,2.0,Tidak,,Cukup mendukung,Melalui teman,1,6,Ya,1
+21,4.0,1.0,4.0,0.0,3.0,4.0,3.0,4.0,5.0,4.0,2.0,Ya,Turun,Sangat mengganggu,Melalui teman,0,1,Ya,1
+19,4.0,3.0,28.0,2.0,5.0,3.0,5.0,2.0,4.0,4.0,3.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+21,6.0,5.0,19.0,1.0,5.0,3.0,5.0,2.0,4.0,5.0,2.0,Ya,Turun,Sangat mengganggu,Melalui teman,0,1,Ya,1
+18,2.0,4.0,17.0,2.0,2.0,4.0,2.0,5.0,2.0,4.0,3.0,Ya,Turun,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,7,Ya,1
+20,4.0,5.0,9.0,4.0,2.0,2.0,4.0,4.0,3.0,4.0,4.0,Ya,Naik,Cukup mendukung,Melalui teman,0,1,Ya,1
+21,4.0,4.0,20.0,3.0,5.0,2.0,4.0,3.0,3.0,5.0,2.0,Ya,Turun,Cukup mengganggu,Di kampus/organisasi,1,2,Ya,1
+19,4.0,,,,,,,,,,,,,,,0,1,,0
+19,2.0,,,,,,,,,,,,,,,0,1,,0
+19,4.0,2.0,20.0,1.0,3.0,5.0,3.0,3.0,5.0,5.0,5.0,Tidak,,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,2,Tidak,1
+21,6.0,5.0,20.0,1.0,2.0,5.0,2.0,3.0,3.0,5.0,3.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,1,Tidak,1
+22,6.0,3.0,29.0,1.0,5.0,4.0,3.0,2.0,4.0,3.0,5.0,Ya,Naik,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,7,Ya,1
+21,4.0,1.0,27.0,4.0,2.0,2.0,5.0,2.0,2.0,2.0,2.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,4,Tidak,1
+23,6.0,1.0,31.0,4.0,4.0,3.0,5.0,3.0,3.0,4.0,3.0,Tidak,,Cukup mendukung,Di kampus/organisasi,0,5,Tidak,1
+20,6.0,4.0,4.0,3.0,4.0,4.0,3.0,3.0,5.0,5.0,5.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+20,4.0,2.0,23.0,4.0,2.0,5.0,3.0,3.0,4.0,4.0,2.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",1,8,Tidak,1
+20,4.0,1.0,29.0,3.0,4.0,4.0,2.0,5.0,3.0,2.0,3.0,Ya,Naik,Netral,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+20,4.0,4.0,12.0,4.0,3.0,5.0,3.0,3.0,2.0,3.0,5.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+19,4.0,4.0,36.0,2.0,5.0,5.0,2.0,3.0,3.0,5.0,4.0,Ya,Turun,Cukup mendukung,Di kampus/organisasi,0,1,Ya,1
+20,4.0,1.0,15.0,2.0,4.0,3.0,4.0,3.0,3.0,3.0,5.0,Tidak,,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+19,2.0,5.0,7.0,1.0,4.0,2.0,3.0,4.0,3.0,2.0,4.0,Ya,Turun,Netral,Di kampus/organisasi,1,8,Ya,1
+18,2.0,5.0,27.0,2.0,3.0,4.0,3.0,5.0,4.0,4.0,5.0,Tidak,,Sangat mengganggu,Melalui teman,1,3,Tidak,1
+21,4.0,3.0,18.0,1.0,5.0,2.0,2.0,4.0,3.0,4.0,4.0,Ya,Turun,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+21,4.0,4.0,36.0,3.0,4.0,2.0,4.0,4.0,2.0,3.0,3.0,Ya,Turun,Sangat mendukung,Melalui teman,0,1,Ya,1
+20,4.0,5.0,19.0,2.0,4.0,2.0,2.0,2.0,4.0,4.0,2.0,Tidak,,Netral,"Media sosial (Instagram, Twitter, dsb.)",0,8,Ya,1
+19,4.0,1.0,23.0,2.0,5.0,5.0,3.0,5.0,3.0,4.0,5.0,Ya,Naik,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+19,4.0,5.0,20.0,2.0,3.0,3.0,5.0,4.0,4.0,2.0,5.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+23,6.0,1.0,7.0,4.0,3.0,5.0,5.0,2.0,2.0,2.0,5.0,Ya,Turun,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,8,Ya,1
+21,4.0,5.0,5.0,3.0,4.0,5.0,2.0,4.0,2.0,4.0,5.0,Ya,Naik,Sangat mendukung,Melalui teman,0,7,Tidak,1
+18,2.0,4.0,34.0,4.0,2.0,3.0,4.0,4.0,3.0,3.0,2.0,Tidak,,Sangat mengganggu,Melalui teman,1,1,Ya,1
+18,2.0,1.0,19.0,1.0,2.0,5.0,3.0,5.0,3.0,2.0,5.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+20,4.0,5.0,30.0,3.0,4.0,4.0,3.0,5.0,4.0,5.0,5.0,Ya,Turun,Sangat mengganggu,Melalui teman,1,1,Tidak,1
+20,4.0,2.0,5.0,1.0,2.0,3.0,3.0,5.0,5.0,4.0,3.0,Ya,Naik,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,4,Ya,1
+21,4.0,4.0,6.0,2.0,5.0,4.0,5.0,2.0,3.0,5.0,5.0,Ya,Naik,Netral,Di kampus/organisasi,1,2,Ya,1
+19,2.0,3.0,20.0,2.0,3.0,2.0,5.0,4.0,3.0,5.0,4.0,Tidak,,Cukup mendukung,Melalui teman,0,1,Ya,1
+23,6.0,5.0,24.0,1.0,2.0,3.0,5.0,2.0,3.0,2.0,2.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+20,4.0,1.0,23.0,4.0,4.0,4.0,2.0,2.0,3.0,3.0,3.0,Ya,Turun,Sangat mengganggu,Melalui teman,0,1,Ya,1
+21,4.0,1.0,15.0,4.0,3.0,4.0,2.0,3.0,2.0,2.0,2.0,Ya,Naik,Netral,Di kampus/organisasi,0,1,Tidak,1
+19,4.0,2.0,13.0,4.0,4.0,2.0,4.0,4.0,2.0,2.0,3.0,Ya,Naik,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+21,4.0,2.0,24.0,1.0,5.0,4.0,3.0,3.0,2.0,4.0,4.0,Ya,Naik,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,8,Ya,1
+20,4.0,3.0,16.0,4.0,2.0,4.0,3.0,5.0,5.0,3.0,5.0,Ya,Naik,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+20,4.0,2.0,11.0,2.0,5.0,3.0,5.0,3.0,3.0,2.0,3.0,Tidak,,Cukup mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+18,2.0,2.0,33.0,1.0,2.0,3.0,4.0,4.0,3.0,5.0,4.0,Ya,Turun,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",0,2,Ya,1
+23,6.0,4.0,33.0,1.0,5.0,4.0,4.0,2.0,5.0,3.0,4.0,Ya,Turun,Sangat mengganggu,Melalui teman,1,2,Ya,1
+20,6.0,2.0,35.0,2.0,2.0,2.0,4.0,2.0,2.0,2.0,5.0,Ya,Turun,Netral,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+21,4.0,2.0,29.0,2.0,3.0,2.0,5.0,4.0,3.0,5.0,4.0,Tidak,,Sangat mendukung,Di kampus/organisasi,1,5,Ya,1
+20,4.0,1.0,22.0,2.0,3.0,3.0,5.0,3.0,2.0,5.0,4.0,Ya,Turun,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+21,4.0,2.0,26.0,3.0,4.0,3.0,4.0,4.0,2.0,4.0,2.0,Tidak,,Netral,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+21,4.0,5.0,13.0,1.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,Ya,Turun,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Tidak,1
+19,4.0,4.0,21.0,2.0,4.0,2.0,4.0,5.0,5.0,2.0,2.0,Tidak,,Cukup mengganggu,Melalui teman,0,7,Ya,1
+21,4.0,2.0,3.0,4.0,3.0,5.0,2.0,2.0,2.0,2.0,2.0,Ya,Turun,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,4,Ya,1
+19,4.0,4.0,4.0,0.0,2.0,4.0,5.0,4.0,4.0,5.0,2.0,Ya,Turun,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,8,Tidak,1
+21,4.0,4.0,14.0,1.0,4.0,5.0,5.0,2.0,2.0,4.0,4.0,Tidak,,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,6,Tidak,1
+19,4.0,2.0,7.0,0.0,4.0,4.0,3.0,3.0,5.0,3.0,4.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,1,3,Ya,1
+20,4.0,5.0,9.0,4.0,4.0,5.0,5.0,4.0,3.0,2.0,4.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",1,8,Ya,1
+20,4.0,2.0,9.0,3.0,3.0,3.0,4.0,3.0,4.0,5.0,3.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+21,6.0,3.0,36.0,3.0,3.0,5.0,3.0,4.0,5.0,4.0,2.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+19,4.0,2.0,25.0,1.0,4.0,5.0,2.0,3.0,5.0,3.0,2.0,Tidak,,Cukup mendukung,Melalui teman,0,4,Ya,1
+19,4.0,3.0,4.0,1.0,3.0,3.0,2.0,5.0,5.0,5.0,3.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,1,1,Ya,1
+21,4.0,5.0,12.0,2.0,2.0,2.0,2.0,4.0,2.0,4.0,4.0,Tidak,,Cukup mendukung,Melalui teman,0,7,Ya,1
+20,4.0,2.0,9.0,4.0,4.0,4.0,3.0,5.0,3.0,5.0,4.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",1,4,Ya,1
+19,4.0,4.0,12.0,4.0,3.0,2.0,4.0,5.0,5.0,3.0,2.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+21,4.0,1.0,27.0,2.0,4.0,2.0,5.0,4.0,4.0,5.0,3.0,Tidak,,Sangat mengganggu,Melalui teman,0,6,Ya,1
+21,4.0,4.0,28.0,1.0,2.0,5.0,5.0,4.0,2.0,3.0,2.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,6,Tidak,1
+20,4.0,3.0,14.0,3.0,2.0,5.0,3.0,3.0,3.0,2.0,5.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+19,2.0,5.0,24.0,2.0,2.0,3.0,3.0,5.0,4.0,5.0,3.0,Tidak,,Sangat mendukung,Melalui teman,0,5,Ya,1
+20,4.0,4.0,13.0,2.0,5.0,5.0,2.0,3.0,4.0,3.0,4.0,Ya,Naik,Sangat mengganggu,Di kampus/organisasi,1,2,Ya,1
+18,2.0,4.0,27.0,4.0,3.0,5.0,3.0,2.0,2.0,5.0,3.0,Tidak,,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,8,Ya,1
+19,2.0,4.0,32.0,1.0,4.0,2.0,3.0,2.0,5.0,2.0,4.0,Tidak,,Netral,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+19,2.0,1.0,22.0,4.0,4.0,2.0,3.0,2.0,5.0,2.0,3.0,Ya,Turun,Cukup mendukung,Di kampus/organisasi,1,7,Tidak,1
+19,4.0,5.0,33.0,2.0,2.0,5.0,2.0,4.0,5.0,3.0,2.0,Ya,Naik,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+21,6.0,4.0,29.0,4.0,3.0,2.0,4.0,4.0,5.0,4.0,3.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,1,Ya,1
+20,6.0,3.0,17.0,3.0,4.0,4.0,5.0,5.0,4.0,2.0,4.0,Tidak,,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Tidak,1
+19,2.0,2.0,31.0,4.0,2.0,4.0,3.0,2.0,4.0,3.0,5.0,Tidak,,Netral,Melalui teman,0,1,Tidak,1
+20,4.0,2.0,24.0,1.0,4.0,4.0,4.0,3.0,4.0,4.0,3.0,Ya,Naik,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+19,2.0,1.0,10.0,4.0,4.0,3.0,5.0,3.0,3.0,4.0,3.0,Ya,Turun,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,1,Tidak,1
+18,2.0,5.0,29.0,1.0,3.0,5.0,3.0,2.0,4.0,4.0,5.0,Tidak,,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+23,6.0,4.0,6.0,3.0,5.0,5.0,4.0,5.0,3.0,5.0,5.0,Ya,Naik,Cukup mengganggu,Di kampus/organisasi,0,3,Ya,1
+20,4.0,4.0,19.0,3.0,2.0,2.0,3.0,2.0,3.0,3.0,3.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,0,1,Ya,1
+21,4.0,1.0,17.0,4.0,4.0,2.0,3.0,2.0,4.0,3.0,5.0,Tidak,,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+20,6.0,2.0,35.0,4.0,5.0,4.0,2.0,5.0,2.0,3.0,4.0,Ya,Turun,Netral,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+20,4.0,1.0,18.0,1.0,3.0,5.0,3.0,4.0,2.0,3.0,5.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,2,Ya,1
+18,2.0,5.0,15.0,3.0,2.0,2.0,4.0,3.0,4.0,4.0,5.0,Tidak,,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",1,1,Tidak,1
+20,6.0,1.0,33.0,1.0,4.0,5.0,3.0,2.0,5.0,2.0,2.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,1,Ya,1
+21,4.0,5.0,8.0,4.0,4.0,2.0,3.0,5.0,3.0,2.0,4.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,1,5,Tidak,1
+21,4.0,2.0,24.0,3.0,2.0,4.0,3.0,3.0,5.0,4.0,2.0,Ya,Naik,Sangat mendukung,Di kampus/organisasi,1,2,Ya,1
+20,4.0,5.0,35.0,3.0,4.0,2.0,4.0,3.0,4.0,2.0,3.0,Ya,Turun,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,2,Ya,1
+21,6.0,5.0,31.0,3.0,2.0,4.0,4.0,3.0,5.0,4.0,4.0,Ya,Naik,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,7,Ya,1
+21,4.0,2.0,7.0,1.0,2.0,4.0,3.0,5.0,2.0,3.0,5.0,Ya,Naik,Cukup mengganggu,Di kampus/organisasi,0,8,Tidak,1
+19,4.0,5.0,30.0,4.0,3.0,4.0,4.0,5.0,4.0,5.0,5.0,Ya,Naik,Cukup mengganggu,"Media sosial (Instagram, Twitter, dsb.)",1,1,Ya,1
+20,4.0,4.0,5.0,2.0,4.0,3.0,4.0,4.0,3.0,3.0,5.0,Tidak,,Sangat mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+23,6.0,2.0,13.0,4.0,4.0,2.0,4.0,3.0,3.0,4.0,4.0,Ya,Turun,Sangat mengganggu,Melalui teman,0,1,Ya,1
+21,4.0,2.0,12.0,1.0,4.0,5.0,3.0,3.0,4.0,2.0,4.0,Tidak,,Netral,Melalui teman,0,1,Ya,1
+19,4.0,5.0,32.0,2.0,3.0,5.0,5.0,3.0,3.0,5.0,2.0,Ya,Turun,Sangat mengganggu,Di kampus/organisasi,1,8,Ya,1
+19,4.0,2.0,17.0,3.0,5.0,2.0,2.0,4.0,5.0,2.0,3.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,1,Ya,1
+21,4.0,4.0,27.0,4.0,2.0,4.0,2.0,5.0,3.0,2.0,5.0,Tidak,,Cukup mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",1,1,Ya,1
+19,4.0,3.0,11.0,3.0,3.0,2.0,3.0,4.0,2.0,4.0,3.0,Tidak,,Sangat mengganggu,"Media sosial (Instagram, Twitter, dsb.)",0,8,Ya,1
+20,4.0,4.0,17.0,3.0,2.0,2.0,2.0,2.0,2.0,2.0,3.0,Tidak,,Sangat mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,1,Ya,1
+19,2.0,1.0,36.0,3.0,2.0,4.0,4.0,4.0,3.0,2.0,2.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,3,Ya,1
+19,4.0,4.0,6.0,3.0,2.0,4.0,3.0,4.0,3.0,3.0,3.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,1,Tidak,1
+21,4.0,3.0,21.0,2.0,5.0,5.0,3.0,3.0,3.0,4.0,3.0,Tidak,,Sangat mendukung,Di kampus/organisasi,0,1,Ya,1
+19,2.0,3.0,23.0,2.0,4.0,2.0,4.0,3.0,5.0,3.0,2.0,Tidak,,Cukup mengganggu,"Aplikasi kencan (Tinder, Bumble, dll)",1,5,Ya,1
+19,4.0,1.0,15.0,1.0,2.0,2.0,2.0,5.0,5.0,3.0,3.0,Tidak,,Cukup mengganggu,Melalui teman,0,2,Tidak,1
+20,4.0,1.0,14.0,2.0,5.0,2.0,3.0,2.0,2.0,2.0,2.0,Ya,Turun,Sangat mengganggu,Melalui teman,1,7,Tidak,1
+19,2.0,5.0,10.0,2.0,5.0,2.0,2.0,2.0,4.0,4.0,5.0,Tidak,,Sangat mengganggu,Di kampus/organisasi,1,5,Ya,1
+22,6.0,4.0,27.0,1.0,3.0,4.0,5.0,2.0,5.0,3.0,4.0,Tidak,,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,7,Ya,1
+19,4.0,4.0,16.0,1.0,2.0,3.0,2.0,2.0,2.0,3.0,3.0,Tidak,,Cukup mengganggu,Di kampus/organisasi,0,1,Ya,1
+19,4.0,5.0,4.0,0.0,4.0,4.0,3.0,5.0,2.0,2.0,4.0,Ya,Naik,Cukup mengganggu,Melalui teman,0,7,Tidak,1
+21,4.0,2.0,36.0,3.0,4.0,2.0,5.0,3.0,3.0,3.0,3.0,Tidak,,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,5,Tidak,1
+19,4.0,2.0,18.0,3.0,2.0,5.0,5.0,2.0,3.0,3.0,5.0,Ya,Turun,Cukup mendukung,"Media sosial (Instagram, Twitter, dsb.)",0,8,Ya,1
+20,4.0,2.0,19.0,2.0,5.0,5.0,2.0,3.0,2.0,4.0,3.0,Tidak,,Sangat mendukung,"Aplikasi kencan (Tinder, Bumble, dll)",0,1,Ya,1
+19,4.0,4.0,36.0,3.0,3.0,3.0,5.0,4.0,3.0,3.0,5.0,Ya,Naik,Netral,Melalui teman,1,6,Tidak,1
+21,4.0,2.0,7.0,3.0,3.0,5.0,4.0,4.0,2.0,5.0,2.0,Tidak,,Cukup mengganggu,Melalui teman,0,1,Ya,1
+19,4.0,1.0,5.0,1.0,4.0,4.0,2.0,2.0,2.0,3.0,2.0,Tidak,,Cukup mendukung,Di kampus/organisasi,1,5,Ya,1
